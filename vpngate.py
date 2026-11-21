@@ -71,7 +71,7 @@ DEFAULT_EDGE_HOSTS = [
 "q9t3v7-m2x8k4p6r1s8.qmsf.ccwu.cc:443",
 "z4n8c2-w7y5b9d3h6j1.qmsf.ccwu.cc:443",
 "k7r2m9-xq4v8t3p6z5.qmsf.ccwu.cc:443",
-"p3m8v2-c7x9q4t6n1z5.qmsf.ccwu.cc:443",
+"p3m8v2-c7x9q4t6n1z5.qmsf.ccwu.cc:443"
 ]
 
 DATA_CENTER_ORG_KEYWORDS = [
