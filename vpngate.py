@@ -67,7 +67,7 @@ DEFAULT_EDGE_HOSTS = [
 "cdn.aneko.ink:443",
 "cfsaas.080112.xyz:443",
 "www.mfyx.cn:443",
-"h6s2d9-f4g7j3l8n5a2.qmsf.ccwu.cc:443"
+"all-j8t4d2s9f6x3.nbku.us.ci:443"
 ]
 
 DATA_CENTER_ORG_KEYWORDS = [
